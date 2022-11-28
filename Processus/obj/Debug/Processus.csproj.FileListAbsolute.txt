@@ -1,0 +1,6 @@
+E:\DEV\Console\Processus\Processus\bin\Debug\Processus.exe.config
+E:\DEV\Console\Processus\Processus\bin\Debug\Processus.exe
+E:\DEV\Console\Processus\Processus\bin\Debug\Processus.pdb
+E:\DEV\Console\Processus\Processus\obj\Debug\Processus.csprojResolveAssemblyReference.cache
+E:\DEV\Console\Processus\Processus\obj\Debug\Processus.exe
+E:\DEV\Console\Processus\Processus\obj\Debug\Processus.pdb
